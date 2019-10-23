@@ -1,0 +1,84 @@
+.content{
+    margin-left: 40px;
+    margin-right: 40px;
+    
+}
+.logo_content{
+    height: 40%;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  
+}
+.image_content{
+   justify-content: center;
+   height: 100%;
+}
+.login_btn{
+    background-color: #f25454;
+    color: white;
+    text-emphasis-color: white;
+    height: 60;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.text_content{
+    /* background-color: greenyellow; */
+    /* margin-left: 10%;
+    margin-right: 10%; */
+}
+.forgot_content{
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+  
+    height: 40;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.forgot_label{
+    justify-content: center;
+    height: 100%;
+    widows: 100%;
+    text-align: center;
+}
+.email_image{
+    width: 30;
+    height: 30;
+  
+    margin-left: 70%;
+   padding-top: 150px;
+}
+.pass_image{
+    width: 30;
+    height: 30;
+   
+    margin-left: 70%;
+   padding-top: 150px;
+
+}
+
+.form .input {
+    height: 40;
+}
+.form .m-10{margin:2;padding: 1}
+
+.form .input-border {
+    border-width: 0;
+    border-color: transparent;
+    border-bottom-width: 1;
+    border-bottom-color: orangered;
+}
+.btn_content{
+    margin-left: 30%;
+    margin-right:30%;
+    margin-top: 10px;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+   
+  
+}
+.button-solid{
+    background-color: #f25454;
+}

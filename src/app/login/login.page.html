@@ -1,0 +1,27 @@
+
+
+
+<ion-content padding>
+ 
+      <div class="logo_content">
+          <ion-img class="image_content" src="assets/icon/logo_visiontel.png"></ion-img>
+      </div>
+      <div>
+          <ion-item class="login-fields">
+            
+              <ion-input [(ngModel)]='email' placeholder="Email"></ion-input>
+            </ion-item>
+          <ion-item class="login-fields">
+             
+              <ion-input type="password"  placeholder="Password" [(ngModel)]='password'></ion-input>
+            </ion-item>
+
+              <div class="btn_content">
+                  <ion-button color='#f25254' class="login_btn" (click)="loginBtn_clicked()">Login</ion-button>
+              </div>
+               
+            
+      </div>
+  
+   
+</ion-content>

@@ -1,0 +1,8 @@
+{
+    "WebKit.framework": 1,
+    "libc++.tbd": 2,
+    "libz.tbd": 4,
+    "AddressBook.framework": 2,
+    "libsqlite3.0.tbd": 2,
+    "Security.framework": 2
+}
